@@ -6,6 +6,7 @@ export default function Navbar() {
         <nav className="navbar bg-body-tertiary">
             <div className="container-fluid">
                 <a href="/" className="navbar-brand">To Do List</a>
+                <a href="/PokeData" className = "navbar-brand">Pokemon Data</a>
             </div>
         </nav>
     )
